@@ -1,16 +1,13 @@
-# barogog
+# demo
 
-A new Flutter project.
+```text
+Flutter 3.36.0-1.0.pre-446 • channel main • https://github.com/flutter/flutter.git
+Framework • revision d0ff5c76a8 (11 hours ago) • 2025-09-06 23:54:30 -0400
+Engine • hash c851697b98fa2b7582663d14f0cc777aa49ddf3b (revision d0ff5c76a8) (10 hours ago) • 2025-09-07 03:54:30.000Z
+Tools • Dart 3.10.0 (build 3.10.0-179.0.dev) • DevTools 2.50.0
+```
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+https://github.com/user-attachments/assets/9ffe7763-a86a-4838-a90c-90ac865968b8
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
